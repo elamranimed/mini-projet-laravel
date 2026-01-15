@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+dist
+*.local
+# Additional ignores
+/.env
+/.env.*
+/.idea/
+/.vscode/
+/.cache/
+coverage/
+*.log
+Thumbs.db
